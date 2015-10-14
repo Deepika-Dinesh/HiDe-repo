@@ -1,6 +1,6 @@
 # HiDe-repo
 Socially Relevant Projects
-#!/usr/bin/python
+AutoHiDe.py
 
 from Adafruit_CharLCD import Adafruit_CharLCD
 from subprocess import *
